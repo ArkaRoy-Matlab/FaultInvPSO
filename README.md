@@ -1,12 +1,13 @@
 # FaultInvPSO
 FaultInvPSO: A Matlab based program for Gravity inversion of 2D Fault having variable density contrast using Particle Swarm Optimization
+
 % *** Developed by:
-% ***       Mr. Arka Roy (email: arka.phy@gmail.com)
-% ***       Mr. Thatikonda Suresh Kumar (email: sureshkumarncess@gmail.com)
-% ***       Crustal Processes Group, National Centre for Earth Science Studies,
-% ***       Ministry of Earth Sciences, Government of India
-% ***       Thiruvanthapuram, Kerala, India
-% ****************************************************************
+
+  % ***       Mr. Arka Roy (email: arka.phy@gmail.com)
+  
+  % ***       Mr. Thatikonda Suresh Kumar (email: sureshkumarncess@gmail.com)
+  
+ 
 
 There are three folders, which include Matlab codes for the study of fault structure inversion.
 
