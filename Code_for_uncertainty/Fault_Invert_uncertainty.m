@@ -1,7 +1,7 @@
 % ***************************************************************
 % *** Matlab function for uncertainty apprisal for fault structure
 % *** Source Code is mainly written for research purposes. The codes are
-% *** having copyrights and required proper citations whenever it is used.
+% *** having copyrights and required proper citations whebbnever it is used.
 % *** Developed by:
 % ***       Mr. Arka Roy (email: arka.phy@gmail.com)
 % ***       Mr. Thatikonda Suresh Kumar (email: sureshkumarncess@gmail.com)
